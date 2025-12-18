@@ -1,0 +1,14 @@
+pip install -r requirements.txt 
+python.exe -m pip install --upgrade pip
+
+# Instalar el entorno virtual y activarlo y desactivarlo    
+python -m venv venv
+.\venv\Scripts\Activate 
+deactivate
+
+
+
+Bitacoras para abrir desde el navegador
+C:\Users\jjmar\.gemini\antigravity\brain\a1e63481-34e1-4559-9349-a6b7b7a5a881\task.md
+C:\Users\jjmar\.gemini\antigravity\brain\a1e63481-34e1-4559-9349-a6b7b7a5a881\walkthrough.md
+C:\Users\jjmar\.gemini\antigravity\brain\a1e63481-34e1-4559-9349-a6b7b7a5a881\implementation_plan.md
